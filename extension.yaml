@@ -1,0 +1,11 @@
+Id: e08cd51f-9c9a-4ee3-a094-fde03b55492f
+Name: Library Cleaner
+Author: Rashad-07
+Version: 1.0.0
+Module: LibraryCleaner.psm1
+Type: Script
+Icon: icon.png
+ShortDescription: Lists all games without a valid directory and removes them. emulated games are skipped.
+Links:
+  - Name: github
+    Url: https://github.com/Rashad-07/Library_Cleaner
