@@ -15,4 +15,4 @@
 - Playnite 9 or newer (API 6.0.0)
 
 ## License
-MIT
+[MIT](https://github.com/rashad-07/Library_Cleaner/blob/main/LICENSE)
