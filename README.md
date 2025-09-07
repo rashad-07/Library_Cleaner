@@ -1,11 +1,11 @@
 # Library Cleaner
 
-**Library Cleaner** is a Playnite extension that scans your library for games with missing install directories and removes them.
+**Library Cleaner** is a Playnite extension that scans your library for games with missing install directories and removes them. This extension does not work with emulated games.
 
 ## Features
 - Detects missing games
 - Lets you review before deleting
-- Skips emulated games
+- Skips emulated games for simplicity
 
 ## Installation
 1. Download the latest `.pext` from [Releases](https://github.com/Rashad-07/Library_Cleaner/releases).
